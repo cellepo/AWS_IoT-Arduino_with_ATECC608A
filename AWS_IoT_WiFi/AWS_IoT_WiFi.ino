@@ -1,4 +1,4 @@
-// from: `Arduino IDE > File > Examples > Arduino Cloud_Examples > AWS IoT > AWS_IoT_WiFi`
+// adapted from: `Arduino IDE > File > Examples > Arduino Cloud_Examples > AWS IoT > AWS_IoT_WiFi`
 
 /*
   AWS IoT WiFi
