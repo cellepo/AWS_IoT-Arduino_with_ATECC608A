@@ -1,0 +1,5 @@
+// Optional, set the client id used for MQTT,
+// each device that is connected to the broker
+// must have a unique client id. The MQTTClient will generate
+// a client id for you based on the millis() value if not set
+#define MQTT_CLIENT_ID ""
